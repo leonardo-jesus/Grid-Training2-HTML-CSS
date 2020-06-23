@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The ***Grid Training 2***,  is the second Project for training Grid, made with **HTML** and **CSS**.
+The ***Grid Training 2***,  is the second Project for training the CSS Property Grid, made with **HTML** and **CSS**.
 
 ## 🔖 Layout
 
