@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -32,7 +33,7 @@ The ***Grid Training 2***,  is the second Project for training the CSS Property 
 
 You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/NWPZmaW>).
 
-## 🤔 How contribute
+## 🤔 How to contribute
 
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
